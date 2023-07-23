@@ -1,0 +1,129 @@
+
+
+.h1_index{
+
+    color: #00aeff;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 45px;
+    
+}
+
+.parrafo1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.inicio{
+
+    color: #00aeff;
+    font-family:'Times New Roman', Times, serif
+}
+
+.productos{
+
+    color: #00aeff;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+
+}
+
+
+.h2cafe{
+
+    font-family: 'Times New Roman', Times, serif;
+    color: #00aeff;
+}
+
+.pcafe{
+
+    font-family: 'Times New Roman', Times, serif;
+ 
+}
+
+.h2aguacate{
+
+    font-family: 'Times New Roman', Times, serif;
+    color: #00aeff;
+}
+
+.paguacate{
+
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.h2tomate{
+
+    font-family: 'Times New Roman', Times, serif;
+    color: #00aeff;
+}
+
+.ptomate{
+
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.p2tomate{
+
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.h1historia{
+
+    font-family: 'Times New Roman', Times, serif;
+    color: #00aeff;
+    font-size: 45px;
+}
+
+.h2historia{
+
+    font-family: 'Times New Roman', Times, serif;
+    color: #7700ff;
+
+}
+
+.phistoria{
+
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.valores{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.h1contacto{
+
+    font-family: 'Times New Roman', Times, serif;
+    color: #00aeff;
+    font-size: 30px; 
+}
+.cuerpo{
+
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+.imagen{
+
+    width: 75%;
+    height: 75%;
+    border-radius: 10%;
+    border-style:solid;
+    border-color: #d41313;
+    box-shadow: 11px 11px 15px  #ea00ff ;
+    cursor: pointer;
+    transform: scale(1.03);
+    transform: translate(-10px,10px);
+}
+
+
+.boton{
+background-color: black;
+color: #ff1100;
+border-radius: 50px;
+cursor: pointer;
+
+
+}
+
