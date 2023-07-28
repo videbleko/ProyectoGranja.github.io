@@ -106,8 +106,8 @@
 
 .imagen{
 
-    width: 30%;
-    height: 30%;
+    width: 70%;
+    height: 70%;
     border-radius: 10%;
     border-style:solid;
     border-color: #d41313;
@@ -119,11 +119,54 @@
 
 
 .boton{
-background-color: black;
-color: #ff1100;
-border-radius: 50px;
+background-color: #d10a0a;
+color: #0fdada;
+font-size: 10px;
+border: none;
+padding: 10px 20px;
+border-radius: 5px;
 cursor: pointer;
+position: relative;
+overflow: hidden;
 
 
 }
 
+.Cafe{
+
+    width: 25%;
+    height: 100%;
+    border-radius: 10%;
+    border-style: solid;
+    border-color: #024207;
+    box-shadow: 11px 19px 15px #420202;
+    cursor: pointer;
+    transform: scale(1.03);
+    transform: translate(-10px, 10px);
+}
+
+.aguacate{
+
+        width: 50%;
+        height: 10%;
+        border-radius: 10%;
+        border-style: ridge;
+        border-color: chartreuse;
+        box-shadow: 11px 19px 23px #024207;
+        cursor: pointer;
+        transform: scale(1.03);
+        transform: translate(3.6);
+
+}   
+
+
+.tomate{
+
+        width: 40%;
+        height: 10%;
+        border-radius: 10%;
+        border-style: double;
+        border-color: #ea00ff;
+        box-shadow: 11px 11px 23px #d41313;
+
+}
