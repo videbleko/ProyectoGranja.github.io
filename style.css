@@ -1,4 +1,9 @@
 
+.cuerpo {
+
+    margin: 2%;
+}
+
 header nav ul li {
 
         display: inline-block;
@@ -229,6 +234,7 @@ overflow: hidden;
 .header {
     background-color: #333;
     padding: 1%;
+    
   }
 
 
@@ -267,4 +273,5 @@ overflow: hidden;
     border: #07cc00 solid 2px ;
     
   }
+  
   
