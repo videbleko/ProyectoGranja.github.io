@@ -30,22 +30,25 @@ header nav ul li {
         color: #d80606;
 }
 
-
+/*
 .header li a:hover{
 
         color: rgb(15, 4, 167);
 
 }
 
+*/
+
 .header li:hover{
 
-        box-shadow: 2px 7px 5px  #ff002b;
+       box-shadow: 2px 7px 5px  #ff002b;
 }
 
 header nav ul li a{
 
         text-decoration: none;
         color: black;
+        padding: 9px;
 
 }
 
